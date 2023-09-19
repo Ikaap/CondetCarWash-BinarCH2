@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CondetCarWash_ch2</string>
+
+    <string name="text_header_name">Hello! Ika</string>
+    <string name="text_header_greetings">Nice to see you again !</string>
+    <string name="text_banner_desc">Wash everywhere, anytime with our subscription only for IDR 49.000/Month</string>
+    <string name="text_banner_click_more">Click for more detail</string>
+    <string name="text_your_balance">Your Balance</string>
+    <string name="text_user_balance">Rp 800.000</string>
+    <string name="text_top_up" translatable="false">Top Up</string>
+    <string name="text_top_up_via_bca" translatable="false">Via BCA</string>
+    <string name="text_menu_title_1" translatable="false">Sedan</string>
+    <string name="text_menu_title_2" translatable="false">SUV</string>
+    <string name="text_menu_title_3" translatable="false">Jeep</string>
+    <string name="text_menu_title_4" translatable="false">Bus</string>
+    <string name="text_menu_title_5" translatable="false">Truk</string>
+    <string name="text_menu_title_6" translatable="false">Motorcycle</string>
+    <string name="text_menu_title_7" translatable="false">Super Motorcycle</string>
+</resources>
